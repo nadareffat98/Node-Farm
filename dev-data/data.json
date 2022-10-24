@@ -1,0 +1,51 @@
+[{
+    "id":0,
+    "productName":"Fresh avocado",
+    "image":"🥑",
+    "from":"spain",
+    "quantity":"5 🥑",
+    "price":"7.00",
+    "organic":true,
+    "description":"An avocado is a bright green fruit with a large pit and dark leathery skin. They're also known as alligator pears or butter fruit. Avocados are a favorite of the produce section. They're the go-to ingredient for guacamole dips. And they're turning up in everything from salads and wraps to smoothies and even brownies"
+},
+{
+    "id":1,
+    "productName":"Goat and Sheep Cheese",
+    "image":"🧀",
+    "from":"Potugarl",
+    "quantity":"250 g",
+    "price":"8.00",
+    "organic":false,
+    "description":"Fat equals flavor, but the protein content is important, too: Goat milk is lower in casein, a protein that curdles, so it produces a more crumbly curd, while sheep's cheese is generally more cohesive. Sheep cheese is also higher in carbs, vitamin C, vitamin B12, folate, calcium, and magnesium than goat cheese"
+},
+{
+    "id":2,
+    "productName":"Appollo Broccoli",
+    "image":"🥦",
+    "from":"Potugarl",
+    "quantity":"3 🥦",
+    "price":"5.50",
+    "organic":true,
+    "description":" is a hybrid cultivar, resulting from a cross between broccoli and Chinese kale, producing tasty, tender stems similar to those of sprouting broccoli."
+},
+{
+    "id":3,
+    "productName":"Sweet Corncobs",
+    "image":"🌽",
+    "from":"Germany",
+    "quantity":"2 🌽",
+    "price":"3.00",
+    "organic":false,
+    "description":"Corn the cob is the culinary term for a cooked ear of freshly-picked maize from a cultivar of sweet corn. The ear is picked while the endosperm is in the 'milk stage' so that the kernels are still tender."
+},
+{
+    "id":4,
+    "productName":"Sweet Corncobs",
+    "image":"🌽",
+    "from":"Germany",
+    "quantity":"2 🌽",
+    "price":"3.00",
+    "organic":false,
+    "description":"Corn the cob is the culinary term for a cooked ear of freshly-picked maize from a cultivar of sweet corn. The ear is picked while the endosperm is in the 'milk stage' so that the kernels are still tender."
+}
+]
